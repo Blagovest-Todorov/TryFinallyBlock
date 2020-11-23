@@ -1,0 +1,13 @@
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\bin\Debug\netcoreapp3.1\07.tryFinally.exe
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\bin\Debug\netcoreapp3.1\07.tryFinally.deps.json
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\bin\Debug\netcoreapp3.1\07.tryFinally.runtimeconfig.json
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\bin\Debug\netcoreapp3.1\07.tryFinally.runtimeconfig.dev.json
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\bin\Debug\netcoreapp3.1\07.tryFinally.dll
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\bin\Debug\netcoreapp3.1\07.tryFinally.pdb
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.csprojAssemblyReference.cache
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.AssemblyInfo.cs
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.dll
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.pdb
+D:\QA__\GitProjects\ExceptionHandling\07.tryFinally\obj\Debug\netcoreapp3.1\07.tryFinally.genruntimeconfig.cache
